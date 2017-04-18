@@ -1,0 +1,12 @@
+{
+  "messages": {
+    "missing_parameter_from": {
+      "domain": "domain.com",
+      "recipients": ["test@domain.com", "test+2@domain.com", "test+3@domain.com"],
+      "subject": "Happy new year 2017 %recipient.first% %recipient.last%!",
+      "content": "Hello %recipient.first%",
+      "recipients_vars": { "test@domain.com": {"first": "John", "last": "Doe"}}
+    }
+  }
+
+}

@@ -1,0 +1,10 @@
+# .gitignore
+/npm-debug.log
+*.orig
+.idea
+dump.rdb
+main.js
+_book
+
+# extra
+/.npmignore
