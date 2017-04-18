@@ -8,3 +8,6 @@ _book
 
 # extra
 /.npmignore
+test/credential.json
+src/example.js
+lib/example.js
